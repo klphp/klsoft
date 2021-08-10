@@ -1,8 +1,8 @@
 {
-    "name": "kl/klphp",
+    "name": "klphp/klphp",
     "autoload": {
         "psr-4": {
-            "kl": "src/"
+            "klphp\\": "src/"
         }
     },
     "authors": [
