@@ -1,0 +1,15 @@
+{
+    "name": "kl/klphp",
+    "autoload": {
+        "psr-4": {
+            "kl": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "kelei",
+            "email": "5735570@qq.com"
+        }
+    ],
+    "require": {}
+}
