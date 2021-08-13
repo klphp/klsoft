@@ -1,5 +1,5 @@
 {
-    "name": "klphp/klphp",
+    "name": "klphp/klsoft",
     "autoload": {
         "psr-4": {
             "klphp\\": "src/"
